@@ -1,0 +1,45 @@
+a:hover{
+    color:fuchsia;
+}
+body{
+    padding: 0px;
+    margin: 0px;
+    background-image: url("image.png" );
+    background-repeat: repeat;
+    background-attachment: scroll;
+    color:blue
+    
+
+}
+.menu{
+    text-align: left;
+}
+.menu ul{
+    display: inline-flex;
+    list-style: none;
+}
+.menu ul li{
+    margin: 2px;
+     position: relative;
+}
+.menu ul li a{
+        padding: 15px;
+            color: moccasin;
+            font-size: 28px;
+            text-decoration: none;
+            text-decoration: underline overline burlywood;
+            text-shadow: 11px 10px 15px burlywood;
+            font-style: italic;
+            font-weight: lighter;
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            border-radius: 20px;
+            position: relative;
+            border-bottom: 2px solid #fff;
+            box-shadow: 3px 4px 6px burlywood;
+            text-indent: 50%;
+}
+h1{
+    font: 45px;
+    color: palegoldenrod;
+    text-align: center;
+}

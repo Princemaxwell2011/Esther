@@ -1,0 +1,27 @@
+h1{
+    box-shadow: 3px 4px 4px goldenrod;
+    text-shadow: 3px 4px 6px gold;
+    background-color: greenyellow;
+    font-size: 72px;
+    border-radius: 10px;
+    border: 2px solid gold;
+    text-align: center;
+
+}
+body{
+    color:midnightblue;
+    background: radial-gradient(maroon, blue, red, gold, green, mediumorchid, rebeccapurple);
+}
+h2{
+    border: double 2px salmon;
+    color: darksalmon;
+    background-color: lightgreen;
+    text-align: center;
+
+}
+p{
+    color: crimson;
+    font-size: 30px;
+    font-weight: bold;
+}
+
